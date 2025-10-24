@@ -1,0 +1,22 @@
+WordNets
+
+
+Turkish WordNet available
+- reading in … 
+
+Mongolian WordNet available as xml
+- reading in …
+
+Hungarian WordNet available
+- reading in …
+
+
+not yet found:
+Persian/Farsi, Vietnamese, Korean
+
+
+#####################################################################
+
+How do I even use Turkish WordNet and the others?
+
+- MoWN is easy (?), reading in the xml and doing shittery...
