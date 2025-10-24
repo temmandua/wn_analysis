@@ -19,4 +19,15 @@ Persian/Farsi, Vietnamese, Korean
 
 How do I even use Turkish WordNet and the others?
 
-- MoWN is easy (?), reading in the xml and doing shittery...
+- HuWN easy (?), reading in the xml and doing shittery…
+	- but not with wn: invalid lexical source
+- MonWN .tsv
+
+#####################################################################
+
+next time:
+
+- search for Korean/Vietnamese/Persian - maybe reach out?
+- try finding out how to go forth with Turkish WordNet, only one that has python code...
+- see if u can analyse Mongolian df, probably easier than HuWN
+- take notes for questions 31.10., How to proceed with all the formats?
