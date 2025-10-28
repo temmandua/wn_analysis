@@ -16,6 +16,7 @@ Persian/Farsi, Vietnamese, Korean
 
 
 #####################################################################
+24.10.
 
 How do I even use Turkish WordNet and the others?
 
@@ -23,11 +24,49 @@ How do I even use Turkish WordNet and the others?
 	- but not with wn: invalid lexical source
 - MonWN .tsv
 
-#####################################################################
-
 next time:
 
 - search for Korean/Vietnamese/Persian - maybe reach out?
 - try finding out how to go forth with Turkish WordNet, only one that has python code...
 - see if u can analyse Mongolian df, probably easier than HuWN
 - take notes for questions 31.10., How to proceed with all the formats?
+
+#####################################################################
+27.10.
+
+idea for the formats:
+- Mongolian tsv: code to convert it into xml / WN-LMF 1.3?
+- same with HuWN?
+
+also... wn / nltk / KeNet … chaotic
+- which do I need for what?
+- can use NLTK for all the languages from omw 1.4
+
+managed to get files for Vietnamese wordnet… but without context to English?
+- separate csv files for pos and sem fields
+
+found KorEDA: a tool for … idk
+- seems to have something to do with CoreNet, can I use it somehow?
+NOW pretty sure I found a python code containing CoreNet … can I use it? am I allowed to use it?
+
+found FarsNet:
+- website with sign in, licences etc … afaik 2 options: online use, or use of project offline
+- matter of licences: is it fine for me to use offline version in my thesis?
+
+
+#####################################################################
+28.10.
+
+QUESTIONS FOR 31.10.
+
+1 some languages have synset relations to the english one
+- how do we deal with the ones that don't? eg. Mongolian?
+- in other terms: how do we determine a word's reading?
+	for turkish: ili-mapping.txt
+
+2 how do we take care of word inflection?
+- likely that there are tools… but for all languages?
+
+
+Turkish problem:
+- the synonyms are not separately distinguished from the multiword expressions...
