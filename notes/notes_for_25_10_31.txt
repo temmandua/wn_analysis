@@ -92,3 +92,7 @@ WordNet problem:
 	b. figure out if there is mapping to English, or a way to do so
 		- how did the creators of the WordNets do this?
 		- if not... what to do then?
+
+NOTES:
+
+- had to switch to python 3.12 due to unresolved issues with spaCy
