@@ -1,0 +1,1 @@
+sort -R /mnt/c/Users/torto/Downloads/pl/pl.txt | head -n 500 > /mnt/c/Users/torto/Downloads/pl/pl_sortTest.txt
