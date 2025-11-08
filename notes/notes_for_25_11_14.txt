@@ -37,6 +37,15 @@ what would be the most efficient way to store the words in?
 
 - dictionary? we could actually search via the key 'lemma' and 'POS' and maybe 'meaning' to make sure it fits
 
+
+########################################################################
+8.11.25
+
+protocol:
+
+...for now let's focus on the WordNets, since this will probably depend on them...
+
+
 ########################################################################
 
 QUESTIONS:
