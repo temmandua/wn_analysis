@@ -45,6 +45,13 @@ protocol:
 
 ...for now let's focus on the WordNets, since this will probably depend on them...
 
+########################################################################
+12.11.25
+
+protocol:
+
+found out how to read the structure of the xml files, and how to write xml files… now I need a function that reads the HunWN file and writes it as a WN-LMF 1.3 file
+
 
 ########################################################################
 
