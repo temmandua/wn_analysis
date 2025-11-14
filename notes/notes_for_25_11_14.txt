@@ -3,7 +3,7 @@
 
 1. OPUS corpus data acquisition
 	a. get familiar with OPUS
-	b. write code to obtain 50m random sentences per language
+	Xb. write code to obtain 50m random sentences per language
 		prof recommended unix tools for random (something with sort(), ...)
 	c. get familiar with spaCy / NLTK and write code for lemmatization
 
