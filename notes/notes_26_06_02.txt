@@ -6,6 +6,8 @@ dataframe from xml (HuWN) with relevant info (hyper-, hyponyms, pos,...)
 
 from 02.06.:
 
+- changed from 3.10 to 3.12 again...
+
 trying to figure out how to access synsets in Princeton by using IDs from HuWN / KeWN (Turkish wordnet)
 - HuWN ID structure: ENG20-xxxxxxxx-POS
 - using NLTK WordNets, they use "offsets" to identify, like 2452 for 'plant'
