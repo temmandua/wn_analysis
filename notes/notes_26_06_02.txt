@@ -1,0 +1,16 @@
+from 31.05.:
+
+dataframe from xml (HuWN) with relevant info (hyper-, hyponyms, pos,...)
+- added synonyms, now the info is complete
+
+
+from 02.06.:
+
+trying to figure out how to access synsets in Princeton by using IDs from HuWN / KeWN (Turkish wordnet)
+- HuWN ID structure: ENG20-xxxxxxxx-POS
+- using NLTK WordNets, they use "offsets" to identify, like 2452 for 'plant'
+- myb figure out how to search for IDs CONTAINING these offsets in other Wordnets like HuWN
+ --> found that offset of synsets 'plant' and 'növény' do not fit, same as 'thing'...
+
+??? what kind of ID-system does HuWN use?
+??? How do I access the IDs of Princeton? Is it the offsets?
