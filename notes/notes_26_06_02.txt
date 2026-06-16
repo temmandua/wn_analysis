@@ -15,4 +15,19 @@ trying to figure out how to access synsets in Princeton by using IDs from HuWN /
  --> found that offset of synsets 'plant' and 'növény' do not fit, same as 'thing'...
 
 ??? what kind of ID-system does HuWN use?
-??? How do I access the IDs of Princeton? Is it the offsets?
+??? How do I access the IDs of Princeton? Is it the offsets? - Documentation
+
+
+from 16.06.:
+
+first: found out HuWN has RDF/TTL file...
+- gonna find out if I can just use that instead of converting the xml
+- also seems to be a more up to date version - AND has mappings to PWN30, so it might solve the ID problem
+
+BUT
+- I need to work more carefully... it's not easy to find these resources but I have to be careful, researching more
+
+so for the next session:
+- I'll find out if I can use HuWN.ttl and
+- I'll scan Princeton a little... (the offsets, IDs etc...)
+- I'll ... uh forgot haha
