@@ -1,0 +1,15 @@
+from 10.07.26:
+
+tried to figure out the ID thing with HuWN and PWN:
+- which ID in HuWN corresponds to the PWN ID?
+- where exactly do we find the PWN ID?
+
+found:
+- ID3 in the xml file of the HuWN is the one corresponding to the PWN...
+- PWN offset is the thing that we need to compare (pWN_synset.offset())
+
+this is good!
+means that we can actually work with HuWN
+
+also: there are tools to work with the xml of HuWN, but I'd rather use what I did myself,
+it alre4ady exists and I'm used to it by now
