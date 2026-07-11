@@ -65,3 +65,24 @@ Mongolian WordNet:
     basic concept"
 
 I just need to figure out the CONNECTION between PWN and MoWN (is it the ID?)
+
+
+
+jetzt: Grundstruktur
+- tab
+
+- datamining:
+3 Knoten in zB junger alter Bruder
+wird in Sprache hyponym oder hyperonym benutzt?
+ueber OWN an lemmata in anderen sprachen zugreifen, die in princeton gemappt ist
+
+Vaterknoten + Kinderknoten
+ - frequenz von Vaterknoten vgl mit Summe von Kinderknoten vgl
+ - Lemmata im Synset summieren
+
+open subtitles (neu)
+
+
+relevante lemmas nachschlagen
+
+spaeter einteilen in semantische felder
