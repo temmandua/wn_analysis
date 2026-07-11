@@ -31,4 +31,37 @@ recapping languages needed:
  + 1 Indogermanic?
  + GermaNet?
 
+----------------------------------------------
 
+from 11.07.26:
+
+Vietnamese WordNet:
+ https://aclanthology.org/2016.gwc-1.38.pdf
+describes the process of translating part of Princeton into Vietnamese...
+ are the relations still the same?
+they describe with examples: words translated from Princeton in phase 1,
+ and then vietnamese words added in phase 2
+IF I understand correctly... they take Princeton, translate it,
+ and then verify relations are correct...
+
+BUT: is the one on GitHub the one that is described here??? idk
+
+going through "OMW" to "CYGNET" to the Vietnamese WordNet ends in a GitHub
+ https://github.com/omwn/tufs/
+
+---> the vi_wordnet file is not of use... only vietnamese words, no relations,...
+
+  wrote email...
+
+
+Mongolian WordNet:
+ https://aclanthology.org/2019.gwc-1.30.pdf
+
+- this is the one that I had downloaded... so info about how they did it, awesome!
+
+    "Early linguists (Youn et al., 2016) revealed
+    that an universal structure of lexical semantics
+    exists across all languages at least between
+    basic concept"
+
+I just need to figure out the CONNECTION between PWN and MoWN (is it the ID?)
