@@ -68,21 +68,32 @@ I just need to figure out the CONNECTION between PWN and MoWN (is it the ID?)
 
 
 
+talk 11.07.
+
 jetzt: Grundstruktur
-- tab
+- tab Dateien
 
 - datamining:
 3 Knoten in zB junger alter Bruder
-wird in Sprache hyponym oder hyperonym benutzt?
+wird in Sprache eher hyponym oder hyperonym benutzt?
 ueber OWN an lemmata in anderen sprachen zugreifen, die in princeton gemappt ist
 
 Vaterknoten + Kinderknoten
  - frequenz von Vaterknoten vgl mit Summe von Kinderknoten vgl
  - Lemmata im Synset summieren
 
-open subtitles (neu)
-
-
+(open subtitles (neu))
 relevante lemmas nachschlagen
-
 spaeter einteilen in semantische felder
+
+
+notes 15.07.
+
+OMW format...
+- is it important to use 1.2 or is 1.4 ok? Why again?
+- 1.4 downloadable via python terminal, 1.2 not -> tab data?
+--> 1.4 is fine
+
+OMW 1.4
+- try and understand the *INFERRED* synsets
+
