@@ -97,3 +97,23 @@ OMW format...
 OMW 1.4
 - try and understand the *INFERRED* synsets
 
+
+
+notes for 26.07.
+
+PRE
+- have fct that takes list of lemmas & wordnet and returns synsets found in the wordnet
+ - using an index of lemmas from the WN
+ - only thing is the senses - we could feed LLM the WN senses and then determine the sense in the OpenSource...
+  - but is this feasible? every sentence...
+
+POST
+
+task 1:
+ - Vaterknoten und Kinderknoten
+ - OS Frequenzlisten: top open subtitles (link)
+ ( - nicht lemmatisieren)
+
+task 2:
+ - aufschreiben was bisher gemacht
+ - sources, was gibt es bisher dazu, warum relevant etc...
